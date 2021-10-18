@@ -1,0 +1,23 @@
+
+
+.form {
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    top: 280px;
+    left: 730px;
+    box-shadow: 10px 10px 50px black;
+}
+
+.form-button {
+    height: 50px;
+    width: 110px;
+    background-color: black;
+    z-index: 1;
+    padding-left: 200px;
+    position: absolute;
+    top: 380px;
+    left: 40px;
+}
+    
+
